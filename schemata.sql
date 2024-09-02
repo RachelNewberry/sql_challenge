@@ -78,3 +78,4 @@ CREATE TABLE salaries(
     emp_no INT,
     salary INT
 );
+
